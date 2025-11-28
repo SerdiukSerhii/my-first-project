@@ -1,0 +1,16 @@
+body {
+  margin-bottom: auto;
+  padding: auto;
+  background-color: antiquewhite;
+}
+p {
+  color: aqua;
+}
+a {
+  color: rgb(194, 194, 159);
+  text-transform: uppercase;
+}
+
+a {
+  color: blueviolet;
+}
